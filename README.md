@@ -35,7 +35,7 @@ requirements.txt
 README.md  
 
 ## 📸 Screenshot
-Dashboard:
+# Dashboard:
 ![App Screenshot](dashboard.png)
 
 ## ⭐ Future Improvements
