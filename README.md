@@ -38,12 +38,13 @@ README.md
 ### Dashboard
 ![App Screenshot](dashboard.png)
 
+## 👨‍💻 Author
+
+**Areef Rasool**
+
 ## ⭐ Future Improvements
 - Login system  
 - Resume history tracking  
 - PDF report download  
 - Better UI dashboard  
 
-## 👨‍💻 Author
-
-**Areef Rasool**
