@@ -43,3 +43,7 @@ README.md
 - Resume history tracking  
 - PDF report download  
 - Better UI dashboard  
+
+## 👨‍💻 Author
+
+**Areef Rasool**
