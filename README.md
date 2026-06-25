@@ -106,6 +106,7 @@ The app will launch locally and also generate a shareable public link via Gradio
 ## 👤 Author
 
 **Areef Rasool**
+
 BSAI Student | AI, Development & Networking Enthusiast
 
 ---
