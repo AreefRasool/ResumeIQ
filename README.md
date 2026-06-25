@@ -93,20 +93,6 @@ The app will launch locally and also generate a shareable public link via Gradio
 
 ---
 
-## 📂 Project Structure
-
-```
-.
-├── app.py                 # Main Gradio application
-├── requirements.txt        # Python dependencies
-├── dashboard.png            # Screenshot — main dashboard
-├── ats-analysis.png         # Screenshot — ATS score analysis
-├── resume-rewrite.png       # Screenshot — resume optimization view
-└── README.md
-```
-
----
-
 ## 📌 Future Improvements
 
 - 🌐 Support for DOCX resume uploads
@@ -120,7 +106,7 @@ The app will launch locally and also generate a shareable public link via Gradio
 ## 👤 Author
 
 **Areef Rasool**
-Computer Science Student | AI & Software Development Enthusiast
+BSAI Student | AI, Development & Networking Enthusiast
 
 ---
 
